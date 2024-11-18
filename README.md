@@ -11,4 +11,5 @@ npx hardhat node
 npm test
 npm run deploy:local
 npm run interact:local
+npm run deploy:ign
 ```
